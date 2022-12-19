@@ -1,3 +1,7 @@
+# Project description
+This project is a to do list using Electron.js in order to make it a graphic application.
+How to run use Electron is shown below.
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
